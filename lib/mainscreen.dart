@@ -207,7 +207,7 @@ class _MainScreenState extends State<MainScreen> {
                 ],
               ),
               const SizedBox(
-                height: 40,
+                height: 60,
               ),
               Padding(
                 padding: const EdgeInsets.all(8.0),
@@ -267,9 +267,6 @@ class _MainScreenState extends State<MainScreen> {
                         )
                       ],
                     ),
-                    Expanded(
-                        child:
-                            Text("App Is Develope By Abdullah Farman With ❤"))
                   ],
                 ),
               )
